@@ -13,9 +13,6 @@
         <mxCell id="UEzPUAAOIrF-is8g5C7q-50" value="AWS&lt;br&gt;Lambda&lt;br&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lambda;labelBackgroundColor=#ffffff;" parent="UEzPUAAOIrF-is8g5C7q-2" vertex="1">
           <mxGeometry x="686" y="32.5" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="HtnTSl4HGxlGRvptVekR-1" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.energy2;" vertex="1" parent="UEzPUAAOIrF-is8g5C7q-2">
-          <mxGeometry x="36" y="32.5" width="70" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="HtnTSl4HGxlGRvptVekR-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;strokeWidth=2;strokeColor=#545B64;startArrow=none;entryX=0;entryY=0.609;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="UEzPUAAOIrF-is8g5C7q-2" source="HtnTSl4HGxlGRvptVekR-1" target="HtnTSl4HGxlGRvptVekR-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="65" y="107.58" as="sourcePoint" />
@@ -67,15 +64,24 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HtnTSl4HGxlGRvptVekR-14" value="" style="group" vertex="1" connectable="0" parent="UEzPUAAOIrF-is8g5C7q-2">
-          <mxGeometry x="180" y="30" width="76.22000000000003" height="105" as="geometry" />
+          <mxGeometry x="179" y="30" width="76.22000000000003" height="109" as="geometry" />
         </mxCell>
         <UserObject label="" tooltip="IoT Box" id="HtnTSl4HGxlGRvptVekR-4">
           <mxCell style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.iot_internet_of_things_platform;" vertex="1" parent="HtnTSl4HGxlGRvptVekR-14">
             <mxGeometry width="76.22" height="75" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="HtnTSl4HGxlGRvptVekR-13" value="IoT Box" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="HtnTSl4HGxlGRvptVekR-14">
-          <mxGeometry x="8.110000000000014" y="74" width="60" height="30" as="geometry" />
+        <mxCell id="HtnTSl4HGxlGRvptVekR-13" value="IoT Device" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="HtnTSl4HGxlGRvptVekR-14">
+          <mxGeometry x="-10" y="74" width="81.11" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HtnTSl4HGxlGRvptVekR-16" value="" style="group" vertex="1" connectable="0" parent="UEzPUAAOIrF-is8g5C7q-2">
+          <mxGeometry x="36" y="32.5" width="70" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="HtnTSl4HGxlGRvptVekR-1" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.energy2;" vertex="1" parent="HtnTSl4HGxlGRvptVekR-16">
+          <mxGeometry width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HtnTSl4HGxlGRvptVekR-15" value="Energy" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="HtnTSl4HGxlGRvptVekR-16">
+          <mxGeometry x="5" y="73" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-QjtrjUzRDEMRZ5MF8oH-47" value="Title text" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-120" y="40" width="130" height="40" as="geometry" />
