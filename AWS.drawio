@@ -8,7 +8,7 @@
           <mxGeometry x="-120" y="160" width="1276" height="625" as="geometry" />
         </mxCell>
         <mxCell id="UEzPUAAOIrF-is8g5C7q-42" value="AWS IoT Core" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.iot_core;labelBackgroundColor=#ffffff;" parent="UEzPUAAOIrF-is8g5C7q-2" vertex="1">
-          <mxGeometry x="310" y="27" width="78" height="78" as="geometry" />
+          <mxGeometry x="360" y="28.5" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="UEzPUAAOIrF-is8g5C7q-48" value="Amazon Kinesis&lt;br&gt;Data Streams&lt;br&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.kinesis_data_streams;labelBackgroundColor=#ffffff;" parent="UEzPUAAOIrF-is8g5C7q-2" vertex="1">
           <mxGeometry x="110" y="499.5" width="78" height="78" as="geometry" />
@@ -22,18 +22,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UEzPUAAOIrF-is8g5C7q-50" value="AWS&lt;br&gt;Lambda&lt;br&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lambda;labelBackgroundColor=#ffffff;" parent="UEzPUAAOIrF-is8g5C7q-2" vertex="1">
-          <mxGeometry x="600" y="75" width="78" height="78" as="geometry" />
+          <mxGeometry x="610" y="10" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="HtnTSl4HGxlGRvptVekR-1" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.energy2;" vertex="1" parent="UEzPUAAOIrF-is8g5C7q-2">
-          <mxGeometry x="20" y="35" width="70" height="70" as="geometry" />
+          <mxGeometry x="10" y="32.5" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HtnTSl4HGxlGRvptVekR-4" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.iot_internet_of_things_platform;" vertex="1" parent="UEzPUAAOIrF-is8g5C7q-2">
-          <mxGeometry x="160" y="32.5" width="76.22" height="75" as="geometry" />
+          <mxGeometry x="180" y="30" width="76.22" height="75" as="geometry" />
         </mxCell>
         <mxCell id="HtnTSl4HGxlGRvptVekR-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;strokeWidth=2;strokeColor=#545B64;startArrow=none;entryX=0;entryY=0.609;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="UEzPUAAOIrF-is8g5C7q-2" source="HtnTSl4HGxlGRvptVekR-1" target="HtnTSl4HGxlGRvptVekR-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="65" y="107.58" as="sourcePoint" />
             <mxPoint x="350.64632000000006" y="99.93000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="76" />
+              <mxPoint x="130" y="76" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HtnTSl4HGxlGRvptVekR-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;strokeWidth=2;strokeColor=#545B64;startArrow=none;exitX=0.905;exitY=0.487;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="UEzPUAAOIrF-is8g5C7q-2" source="HtnTSl4HGxlGRvptVekR-4" target="UEzPUAAOIrF-is8g5C7q-42">
@@ -41,9 +45,8 @@
             <mxPoint y="154" as="sourcePoint" />
             <mxPoint x="280" y="205" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="218" y="69" />
-              <mxPoint x="218" y="155" />
-              <mxPoint x="286" y="155" />
+              <mxPoint x="260" y="69" />
+              <mxPoint x="260" y="69" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -52,9 +55,8 @@
             <mxPoint x="372" y="94.5" as="sourcePoint" />
             <mxPoint x="682" y="93.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="330" y="35" />
-              <mxPoint x="368" y="35" />
-              <mxPoint x="368" y="114" />
+              <mxPoint x="580" y="60" />
+              <mxPoint x="580" y="60" />
             </Array>
           </mxGeometry>
         </mxCell>
